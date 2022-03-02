@@ -5,10 +5,11 @@ Aplicación de calculadora utilizando la implementación PySide de Qt en Python
     Aplicación de Calculadora utilizando la implementación PySide de Qt en Pythonen; a través de programación orientada.
     <br>
     <br>
-   <img width="122" alt="Captura de Pantalla 2022-02-16 a la(s) 18 23 43" src="https://user-images.githubusercontent.com/39862006/154380098-c0af52f0-1c10-41ed-a127-ad3f4e42fd88.png">
+    <img width="112" alt="Captura de Pantalla 2022-03-02 a la(s) 16 15 07" src="https://user-images.githubusercontent.com/39862006/156458805-ffc9938a-f40f-4365-af03-dae691d212ad.png">
     <br>
     <br>
-    <img width="512" alt="Captura de Pantalla 2022-02-16 a la(s) 18 24 50" src="https://user-images.githubusercontent.com/39862006/154380218-8b8fabdc-2135-4ef0-b188-ed2f971dbc57.png">
+    <img width="372" alt="Captura de Pantalla 2022-03-02 a la(s) 16 04 25" src="https://user-images.githubusercontent.com/39862006/156458699-9218f34b-1152-47bf-8d85-593740282e00.png">
+
  
 </p>
 
