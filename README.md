@@ -1,7 +1,7 @@
 # Calculadora-PySide
 
 <p align="center">
-    Aplicación de Calculadora utilizando la implementación PySide de Qt en Pythonen; a través de programación orientada.
+    Aplicación de Calculadora utilizando la implementación PySide de Qt en Python; a través de programación orientada.
     <br>
     <br>
     <img width="112" alt="Captura de Pantalla 2022-03-02 a la(s) 16 15 07" src="https://user-images.githubusercontent.com/39862006/156458805-ffc9938a-f40f-4365-af03-dae691d212ad.png">
